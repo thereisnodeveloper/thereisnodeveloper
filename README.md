@@ -1,4 +1,4 @@
-## Hi there 👋
+## 💻 code, every day, all day.
 
 <!--
 **thereisnodeveloper/thereisnodeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
